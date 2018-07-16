@@ -1,0 +1,14 @@
+General files History
+
+16 Jul 18
+The files have been downloaded from https://vppc.wordpress.com/2017/05/13/nse-live-stock-share-price-data-into-excel-part-3/
+
+There are many files related to 
+nse-live-stock-prices-in-excel-ver-4-portfolio-mangement-through-excel1 - This is the best working file. Ignore others
+
+The files has been renamed as SMM (Stock Market Macros). This file will consisit of all collection of macros.
+
+Note:
+-The file will get complicated over a period of time as the data being processed and output being obtained will vary and also development will be ongoing process.
+
+-So keep this file for development purpose and make a copy of related macros for actual use (Called as working file). Avoid modifying the working files but modify it in development file and then make another revised working file
